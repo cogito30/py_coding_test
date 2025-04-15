@@ -16,7 +16,7 @@ python을 사용하여 algorithm 문제를 풀이
 - Lv3(2025.)
 
 #### [Softeer](https://softeer.ai/practice)
-- Lv1()
+- Lv1(2025.04.16)
 - Lv2()
 - Lv3()
 
