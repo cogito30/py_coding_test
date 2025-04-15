@@ -3,6 +3,11 @@
 ## Description
 python을 사용하여 algorithm 문제를 풀이
 
+## Rerence
+- [잔재미코딩 알고리즘](https://www.fun-coding.org/post/funcodingcodes.html)
+- [코딩테스트 필수 알고리즘](https://www.youtube.com/playlist?list=PLi-xJrVzQaxXC2Aausv_6mlOZZ2g2J6YB)
+- [이것이 취업을 위한 코딩 테스트다 with 파이썬](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
+
 ## 기간
 #### [Programmers](https://school.programmers.co.kr/learn/challenges?order=recent)
 - Lv0(2025.04.10-)
