@@ -1,4 +1,4 @@
-# Coding Test
+# Coding Test(Python)
 
 ## Description
 python을 사용하여 algorithm 문제를 풀이
