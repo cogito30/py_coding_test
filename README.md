@@ -10,16 +10,18 @@ python을 사용하여 algorithm 문제를 풀이
 
 ## 기간
 #### [Programmers](https://school.programmers.co.kr/learn/challenges?order=recent)
-- Lv0(2025.04.10-): 225/240문제
+- Lv0(2025.04.10-): 228/240문제
 - Lv1(2025.04.15-): 76/86문제
 - Lv2(2025.): 16/113문제
 - Lv3(2025.): 1/75문제
 
 #### [Softeer](https://softeer.ai/practice)
-- Lv1(2025.04.16)
-- Lv2()
-- Lv3()
-
+- Lv1(2025.04.16): 11/11문제
+- Lv2(): 1/16문제
+- Lv3(): 0/42문제
+- Lv4(): 0/16문제
+- Lv5(): 0/8문제
+ 
 ## How To Use
 1) repository 다운받기
 ```
