@@ -1,4 +1,4 @@
-# 인국심사
+# 입국심사
 def solution(n, times):
     answer = 0
     maxTime = n*max(times)
