@@ -11,7 +11,7 @@ python을 사용하여 algorithm 문제를 풀이
 ## 기간
 #### [Programmers](https://school.programmers.co.kr/learn/challenges?order=recent)
 - Lv0(2025.04.10-): 232/240문제
-- Lv1(2025.04.15-): 80/86문제
+- Lv1(2025.04.15-): 81/86문제
 - Lv2(2025.): 16/113문제
 - Lv3(2025.): 1/75문제
 
