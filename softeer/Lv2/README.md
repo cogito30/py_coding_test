@@ -1,7 +1,7 @@
 # Softeer Lv2
 
 | 문제번호 |  문제  | 풀이(코드) |    
-|  :--:  | :-- : |   :--:  |    
+|  :---:  | :---: |   :---:  |    
 | 1  | [나무공격](https://softeer.ai/practice/9657) | [풀이](./9657.py) |    
 | 2  | [전광판](https://softeer.ai/practice/6268) | [풀이](./6268.py) |    
 | 3  | [Recovering the Region](https://softeer.ai/practice/9497) | [풀이](./) |    
