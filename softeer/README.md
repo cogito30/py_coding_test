@@ -24,12 +24,12 @@
 | 1  | [나무공격](https://softeer.ai/practice/9657) | [풀이](./Lv2/9657.py) |    
 | 2  | [전광판](https://softeer.ai/practice/6268) | [풀이](./Lv2/6268.py) |    
 | 3  | [Recovering the Region](https://softeer.ai/practice/9497) | [풀이](./Lv2/) |    
-| 4  | [회의실 예약](https://softeer.ai/practice/6266) | [풀이](./Lv2/) |    
-| 5  | [Yeah but How?](https://softeer.ai/practice/9498) | [풀이](./Lv2/) |    
+| 4  | [회의실 예약](https://softeer.ai/practice/6266) | [풀이](./Lv2/6266.py) |    
+| 5  | [Yeah but How?](https://softeer.ai/practice/9498) | [풀이](./Lv2/9498.py) |    
 | 6  | [8단변속기](https://softeer.ai/practice/6283) | [풀이](./Lv2/6283.py) |    
 | 7  | [지도 자동 구축](https://softeer.ai/practice/6280) | [풀이](./Lv2/6280.py) |    
 | 8  | [GPT식 숫자 비교](https://softeer.ai/practice/11001) | [풀이](./Lv2/11001.py) |    
-| 9  | [장애물 인식 프로그램](https://softeer.ai/practice/6282) | [풀이](./Lv2/) |    
+| 9  | [장애물 인식 프로그램](https://softeer.ai/practice/6282) | [풀이](./Lv2/6282.py) |    
 | 10 | [비밀메뉴](https://softeer.ai/practice/6269) | [풀이](./Lv2/6269.py) |    
 | 11 | [진정한 효도](https://softeer.ai/practice/7374) | [풀이](./Lv2/7374.py) |    
 | 12 | [GBC](https://softeer.ai/practice/6270) | [풀이](./Lv2/6270.py) |    
