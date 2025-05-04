@@ -14,11 +14,11 @@
 | 10  | [사칙연산](https://www.acmicpc.net/problem/10869) | [풀이](./10869.py) |    
 | 11  | [A/B](https://www.acmicpc.net/problem/1008) | [풀이](./1008.py) |    
 | 12  | [꼬마 정민](https://www.acmicpc.net/problem/11382) | [풀이](./11382.py) |    
-| 13  | []() | [풀이]() |    
-| 14  | []() | [풀이]() |    
-| 15  | []() | [풀이]() |    
-| 16  | []() | [풀이]() |    
-| 17  | []() | [풀이]() |    
+| 13  | [두 수 비교하기](https://www.acmicpc.net/problem/1330) | [풀이](./1330.py) |    
+| 14  | [시험 성적](https://www.acmicpc.net/problem/9498) | [풀이](./9498.py) |    
+| 15  | [사분면 고르기](https://www.acmicpc.net/problem/14681) | [풀이](./14681.py) |    
+| 16  | [윤년](https://www.acmicpc.net/problem/2753) | [풀이](./2753.py) |    
+| 17  | [사파리월드](https://www.acmicpc.net/problem/2420) | [풀이](./2420.py) |    
 | 18  | []() | [풀이]() |    
 | 19  | []() | [풀이]() |    
 | 20  | []() | [풀이]() |    
