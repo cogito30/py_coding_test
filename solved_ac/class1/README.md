@@ -30,11 +30,11 @@
 | 26  | [최댓값](https://www.acmicpc.net/problem/2562) | [풀이](./2562.py) |    
 | 27  | [알람 시계](https://www.acmicpc.net/problem/2884) | [풀이]() |    
 | 28  | [ACM 호텔](https://www.acmicpc.net/problem/10250) | [풀이]() |    
-| 29  | [최소, 최대](https://www.acmicpc.net/problem/10818) | [풀이]() |    
-| 30  | [단어의 개수](https://www.acmicpc.net/problem/1152) | [풀이]() |    
-| 31  | [숫자의 개수](https://www.acmicpc.net/problem/2577) | [풀이]() |    
-| 32  | [문자열 반복](https://www.acmicpc.net/problem/2675) | [풀이]() |    
-| 33  | [음계](https://www.acmicpc.net/problem/2920) | [풀이]() |    
-| 34  | [나머지](https://www.acmicpc.net/problem/3052) | [풀이]() |    
+| 29  | [최소, 최대](https://www.acmicpc.net/problem/10818) | [풀이](./10818.py) |    
+| 30  | [단어의 개수](https://www.acmicpc.net/problem/1152) | [풀이](./1152.py) |    
+| 31  | [숫자의 개수](https://www.acmicpc.net/problem/2577) | [풀이](./2577.py) |    
+| 32  | [문자열 반복](https://www.acmicpc.net/problem/2675) | [풀이](./2675.py) |    
+| 33  | [음계](https://www.acmicpc.net/problem/2920) | [풀이](./2920.py) |    
+| 34  | [나머지](https://www.acmicpc.net/problem/3052) | [풀이](./3052.py) |    
 | 35  | [OX퀴즈](https://www.acmicpc.net/problem/8958) | [풀이]() |    
 | 36  | [알파벳찾기](https://www.acmicpc.net/problem/10809) | [풀이]() |    
