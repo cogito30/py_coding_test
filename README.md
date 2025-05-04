@@ -14,6 +14,9 @@ python을 사용하여 algorithm 문제를 풀이
 - Lv1(2025.04.15-2025.04.20): 86/86문제
 - Lv2(2025.): 16/113문제
 - Lv3(2025.): 1/75문제
+- Lv4(): 0/25문제
+- Lv5(): 0/14문제
+
 
 #### [Softeer](https://softeer.ai/practice)
 - Lv1(2025.04.16): 11/11문제
@@ -36,5 +39,3 @@ python을 사용하여 algorithm 문제를 풀이
 ```
 git clone https://github.com/cogito30/py_programmers.git
 ```
-
-## Result
