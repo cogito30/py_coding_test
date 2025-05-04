@@ -38,5 +38,5 @@
 | 34  | [문자와 문자열](https://www.acmicpc.net/problem/27866) | [풀이](./27866.py) |    
 | 35  | [그대로 출력하기](https://www.acmicpc.net/problem/11718) | [풀이](./11718.py) |    
 | 36  | [문자열](https://www.acmicpc.net/problem/9086) | [풀이](./9086.py) |    
-| 37  | [이상한 기호]() | [풀이]() |    
-| 38  | [검증수]() | [풀이]() |    
+| 37  | [이상한 기호](https://www.acmicpc.net/problem/15964) | [풀이](./15964.py) |    
+| 38  | [검증수](https://www.acmicpc.net/problem/2475) | [풀이](./2475.py) |    
