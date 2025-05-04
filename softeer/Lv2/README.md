@@ -4,7 +4,7 @@
 |  :---:  | :---: |   :---:  |    
 | 1  | [나무공격](https://softeer.ai/practice/9657) | [풀이](./9657.py) |    
 | 2  | [전광판](https://softeer.ai/practice/6268) | [풀이](./6268.py) |    
-| 3  | [Recovering the Region](https://softeer.ai/practice/9497) | [풀이](./) |    
+| 3  | [Recovering the Region](https://softeer.ai/practice/9497) | [풀이](./9497.py) |    
 | 4  | [회의실 예약](https://softeer.ai/practice/6266) | [풀이](./6266.py) |    
 | 5  | [Yeah but How?](https://softeer.ai/practice/9498) | [풀이](./9498.py) |    
 | 6  | [8단변속기](https://softeer.ai/practice/6283) | [풀이](./6283.py) |    
