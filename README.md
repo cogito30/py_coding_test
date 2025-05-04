@@ -24,7 +24,7 @@ python을 사용하여 algorithm 문제를 풀이
 
 #### [Solved.ac](https://solved.ac/)
 - 새싹(2025.05.04): 38/38문제
-- Class1(): 0/36문제
+- Class1(2025.05.04-): 26/36문제
 - Class2(): 0/40문제
 - Class3(): 0/48문제
 - Class4(): 0/48문제

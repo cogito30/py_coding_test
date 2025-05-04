@@ -1,4 +1,4 @@
-# solved.ac Lv0(Sprout)
+# solved.ac Class0(Sprout)
 
 | 문제번호 |  문제  | 풀이(코드) |    
 |  :---:  | :---: |   :---:  |    
