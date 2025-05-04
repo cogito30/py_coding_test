@@ -31,12 +31,12 @@
 | 27  | [개수 세기](https://www.acmicpc.net/problem/10807) | [풀이](./10807.py) |    
 | 28  | [과제 안 내신 분..?](https://www.acmicpc.net/problem/5597) | [풀이](./5597.py) |    
 | 29  | [행렬 덧셈](https://www.acmicpc.net/problem/2738) | [풀이](./2738.py) |    
-| 30  | [아스키 코드]() | [풀이]() |    
-| 31  | [단어 길이 재기]() | [풀이]() |    
-| 32  | [대소문자 바꾸기]() | [풀이]() |    
-| 33  | [학점계산]() | [풀이]() |    
-| 34  | [문자와 문자열]() | [풀이]() |    
-| 35  | [그대로 출력하기]() | [풀이]() |    
-| 36  | [문자열]() | [풀이]() |    
+| 30  | [아스키 코드](https://www.acmicpc.net/problem/11654) | [풀이](./11654.py) |    
+| 31  | [단어 길이 재기](https://www.acmicpc.net/problem/2743) | [풀이](./2743.py) |    
+| 32  | [대소문자 바꾸기](https://www.acmicpc.net/problem/2744) | [풀이](./2744.py) |    
+| 33  | [학점계산](https://www.acmicpc.net/problem/2754) | [풀이](./2754.py) |    
+| 34  | [문자와 문자열](https://www.acmicpc.net/problem/27866) | [풀이](./27866.py) |    
+| 35  | [그대로 출력하기](https://www.acmicpc.net/problem/11718) | [풀이](./11718.py) |    
+| 36  | [문자열](https://www.acmicpc.net/problem/9086) | [풀이](./9086.py) |    
 | 37  | [이상한 기호]() | [풀이]() |    
 | 38  | [검증수]() | [풀이]() |    
