@@ -36,5 +36,5 @@
 | 32  | [문자열 반복](https://www.acmicpc.net/problem/2675) | [풀이](./2675.py) |    
 | 33  | [음계](https://www.acmicpc.net/problem/2920) | [풀이](./2920.py) |    
 | 34  | [나머지](https://www.acmicpc.net/problem/3052) | [풀이](./3052.py) |    
-| 35  | [OX퀴즈](https://www.acmicpc.net/problem/8958) | [풀이]() |    
-| 36  | [알파벳찾기](https://www.acmicpc.net/problem/10809) | [풀이]() |    
+| 35  | [OX퀴즈](https://www.acmicpc.net/problem/8958) | [풀이](./8958.py) |    
+| 36  | [알파벳찾기](https://www.acmicpc.net/problem/10809) | [풀이](./10809.py) |    
