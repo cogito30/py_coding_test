@@ -28,8 +28,8 @@
 | 24  | [숫자의 합](https://www.acmicpc.net/problem/11720) | [풀이](./11720.py) |    
 | 25  | [A + B - C](https://www.acmicpc.net/problem/31403) | [풀이](./31403.py) |    
 | 26  | [최댓값](https://www.acmicpc.net/problem/2562) | [풀이](./2562.py) |    
-| 27  | [알람 시계](https://www.acmicpc.net/problem/2884) | [풀이]() |    
-| 28  | [ACM 호텔](https://www.acmicpc.net/problem/10250) | [풀이]() |    
+| 27  | [알람 시계](https://www.acmicpc.net/problem/2884) | [풀이](./10250.py) |    
+| 28  | [ACM 호텔](https://www.acmicpc.net/problem/10250) | [풀이](./2884.py) |    
 | 29  | [최소, 최대](https://www.acmicpc.net/problem/10818) | [풀이](./10818.py) |    
 | 30  | [단어의 개수](https://www.acmicpc.net/problem/1152) | [풀이](./1152.py) |    
 | 31  | [숫자의 개수](https://www.acmicpc.net/problem/2577) | [풀이](./2577.py) |    
