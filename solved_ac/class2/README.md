@@ -4,9 +4,9 @@
 |  :---:  | :---: |   :---:  |    
 | 1  | [직각삼각형](https://www.acmicpc.net/problem/4153) | [풀이](./4153.py) |    
 | 2  | [웰컴 키트](https://www.acmicpc.net/problem/30802) | [풀이](./30802.py) |    
-| 3  | [소수 찾기](https://www.acmicpc.net/problem/1978) | [풀이]() |    
-| 4  | [분해합](https://www.acmicpc.net/problem/2231) | [풀이]() |    
-| 5  | [벌집](https://www.acmicpc.net/problem/2292) | [풀이]() |    
+| 3  | [소수 찾기](https://www.acmicpc.net/problem/1978) | [풀이](./1978.py) |    
+| 4  | [분해합](https://www.acmicpc.net/problem/2231) | [풀이](./2231.py) |    
+| 5  | [벌집](https://www.acmicpc.net/problem/2292) | [풀이](./2292.py) |    
 | 6  | [블랙잭](https://www.acmicpc.net/problem/2798) | [풀이]() |    
 | 7  | [Hashing](https://www.acmicpc.net/problem/15829) | [풀이]() |    
 | 8  | [팰린드롬수](https://www.acmicpc.net/problem/1259) | [풀이]() |    
@@ -14,10 +14,10 @@
 | 10  | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | [풀이]() |    
 | 11  | [부녀회장이 될테야](https://www.acmicpc.net/problem/2775) | [풀이]() |    
 | 12  | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | [풀이]() |    
-| 13  | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) | [풀이]() |    
-| 14  | [이항 계수 1](https://www.acmicpc.net/problem/11050) | [풀이]() |    
-| 15  | [FizzBuzz](https://www.acmicpc.net/problem/28702) | [풀이]() |    
-| 16  | [단어 정렬](https://www.acmicpc.net/problem/1181) | [풀이]() |    
+| 13  | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) | [풀이](./10989.py) |    
+| 14  | [이항 계수 1](https://www.acmicpc.net/problem/11050) | [풀이](./11050.py) |    
+| 15  | [FizzBuzz](https://www.acmicpc.net/problem/28702) | [풀이](./28702.py) |    
+| 16  | [단어 정렬](https://www.acmicpc.net/problem/1181) | [풀이](./1181.py) |    
 | 17  | [영화감독 숌](https://www.acmicpc.net/problem/1436) | [풀이]() |    
 | 18  | [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) | [풀이]() |    
 | 19  | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | [풀이]() |    
