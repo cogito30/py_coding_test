@@ -9,9 +9,9 @@
 | 5  | [벌집](https://www.acmicpc.net/problem/2292) | [풀이](./2292.py) |    
 | 6  | [블랙잭](https://www.acmicpc.net/problem/2798) | [풀이]() |    
 | 7  | [Hashing](https://www.acmicpc.net/problem/15829) | [풀이]() |    
-| 8  | [팰린드롬수](https://www.acmicpc.net/problem/1259) | [풀이]() |    
-| 9  | [평균](https://www.acmicpc.net/problem/1546) | [풀이]() |    
-| 10  | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | [풀이]() |    
+| 8  | [팰린드롬수](https://www.acmicpc.net/problem/1259) | [풀이](./1259.py) |    
+| 9  | [평균](https://www.acmicpc.net/problem/1546) | [풀이](./1546.py) |    
+| 10  | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | [풀이](./2609.py) |    
 | 11  | [부녀회장이 될테야](https://www.acmicpc.net/problem/2775) | [풀이]() |    
 | 12  | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | [풀이]() |    
 | 13  | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) | [풀이](./10989.py) |    
