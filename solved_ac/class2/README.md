@@ -29,9 +29,9 @@
 | 25  | [수 찾기](https://www.acmicpc.net/problem/1920) | [풀이](./1920.py) |    
 | 26  | [카드2](https://www.acmicpc.net/problem/2164) | [풀이](./2164.py) |    
 | 27  | [설탕 배달](https://www.acmicpc.net/problem/2839) | [풀이]() |    
-| 28  | [균형잡힌 세상](https://www.acmicpc.net/problem/4949) | [풀이]() |    
-| 29  | [괄호](https://www.acmicpc.net/problem/9012) | [풀이]() |    
-| 30  | [제로](https://www.acmicpc.net/problem/10773) | [풀이]() |    
+| 28  | [균형잡힌 세상](https://www.acmicpc.net/problem/4949) | [풀이](./4949.py) |    
+| 29  | [괄호](https://www.acmicpc.net/problem/9012) | [풀이](./9012.py) |    
+| 30  | [제로](https://www.acmicpc.net/problem/10773) | [풀이](./10773.py) |    
 | 31  | [숫자 카드 2](https://www.acmicpc.net/problem/10816) | [풀이]() |    
 | 32  | [스택](https://www.acmicpc.net/problem/10828) | [풀이]() |    
 | 33  | [큐](https://www.acmicpc.net/problem/10845) | [풀이]() |    
