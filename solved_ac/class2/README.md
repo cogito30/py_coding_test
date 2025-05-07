@@ -32,9 +32,9 @@
 | 28  | [균형잡힌 세상](https://www.acmicpc.net/problem/4949) | [풀이](./4949.py) |    
 | 29  | [괄호](https://www.acmicpc.net/problem/9012) | [풀이](./9012.py) |    
 | 30  | [제로](https://www.acmicpc.net/problem/10773) | [풀이](./10773.py) |    
-| 31  | [숫자 카드 2](https://www.acmicpc.net/problem/10816) | [풀이]() |    
-| 32  | [스택](https://www.acmicpc.net/problem/10828) | [풀이]() |    
-| 33  | [큐](https://www.acmicpc.net/problem/10845) | [풀이]() |    
+| 31  | [숫자 카드 2](https://www.acmicpc.net/problem/10816) | [풀이](./10816.py) |    
+| 32  | [스택](https://www.acmicpc.net/problem/10828) | [풀이](./10828.py) |    
+| 33  | [큐](https://www.acmicpc.net/problem/10845) | [풀이](./10845.py) |    
 | 34  | [요세푸스 문제 0](https://www.acmicpc.net/problem/11866) | [풀이]() |    
 | 35  | [solved.ac](https://www.acmicpc.net/problem/18110) | [풀이]() |    
 | 36  | [소수 구하기](https://www.acmicpc.net/problem/1929) | [풀이]() |    
