@@ -36,7 +36,7 @@
 | 32  | [스택](https://www.acmicpc.net/problem/10828) | [풀이](./10828.py) |    
 | 33  | [큐](https://www.acmicpc.net/problem/10845) | [풀이](./10845.py) |    
 | 34  | [요세푸스 문제 0](https://www.acmicpc.net/problem/11866) | [풀이]() |    
-| 35  | [solved.ac](https://www.acmicpc.net/problem/18110) | [풀이]() |    
+| 35  | [solved.ac](https://www.acmicpc.net/problem/18110) | [풀이](./18110.py) |    
 | 36  | [소수 구하기](https://www.acmicpc.net/problem/1929) | [풀이]() |    
 | 37  | [프린터 큐](https://www.acmicpc.net/problem/1966) | [풀이]() |    
 | 38  | [랜선 자르기](https://www.acmicpc.net/problem/1654) | [풀이]() |    
