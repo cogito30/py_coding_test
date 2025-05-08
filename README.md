@@ -7,6 +7,8 @@ python을 사용하여 algorithm 문제를 풀이
 - [잔재미코딩 알고리즘](https://www.fun-coding.org/post/funcodingcodes.html)
 - [코딩테스트 필수 알고리즘](https://www.youtube.com/playlist?list=PLi-xJrVzQaxXC2Aausv_6mlOZZ2g2J6YB)
 - [이것이 취업을 위한 코딩 테스트다 with 파이썬](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
+- 취업과 이직을 위한 프로그래머스 코딩 테스트 문제 풀이 전략: 파이썬 편
+- 파이썬 알고리즘 인터뷰
 
 ## 기간
 #### [Programmers](https://school.programmers.co.kr/learn/challenges?order=recent)
@@ -28,11 +30,11 @@ python을 사용하여 algorithm 문제를 풀이
 #### [Solved.ac](https://solved.ac/)
 - 새싹(2025.05.04): 38/38문제
 - Class1(2025.05.04-2025.05.05): 36/36문제
-- Class2(2025.05.05-): 31/40문제
+- Class2(2025.05.05-): 32/40문제
 - Class3(): 0/48문제
 - Class4(): 0/48문제
-- \*Class5(): 0/48문제
-- Class6(): 0/48문제
+- Class5(): 0/48문제
+- \*Class6(): 0/48문제
 - Class7(): 0/48문제
 - Class8(): 0/48문제
 - Class9(): 0/48문제

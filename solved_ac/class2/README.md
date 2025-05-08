@@ -1,7 +1,7 @@
 # solved.ac Class2
 
-| 문제번호 |  문제  | 풀이(코드) |    
-|  :---:  | :---: |   :---:  |    
+| 문제번호 |  문제  | 풀이(코드) | 유형 |     
+|  :---:  | :---: |   :---:  |    :---:  |    
 | 1  | [직각삼각형](https://www.acmicpc.net/problem/4153) | [풀이](./4153.py) |    
 | 2  | [웰컴 키트](https://www.acmicpc.net/problem/30802) | [풀이](./30802.py) |    
 | 3  | [소수 찾기](https://www.acmicpc.net/problem/1978) | [풀이](./1978.py) |    
@@ -39,6 +39,6 @@
 | 35  | [solved.ac](https://www.acmicpc.net/problem/18110) | [풀이](./18110.py) |    
 | 36  | [소수 구하기](https://www.acmicpc.net/problem/1929) | [풀이]() |    
 | 37  | [프린터 큐](https://www.acmicpc.net/problem/1966) | [풀이]() |    
-| 38  | [랜선 자르기](https://www.acmicpc.net/problem/1654) | [풀이]() |    
+| 38  | [랜선 자르기](https://www.acmicpc.net/problem/1654) | [풀이](./1654) | 이진탐색 |        
 | 39  | [스택 수열](https://www.acmicpc.net/problem/1874) | [풀이]() |    
 | 40  | [통계학](https://www.acmicpc.net/problem/2108) | [풀이]() |    
