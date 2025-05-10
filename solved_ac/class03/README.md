@@ -13,16 +13,16 @@
 | 9  | [계단 오르기](https://www.acmicpc.net/problem/2579) | [풀이]() |  |     
 | 10  | [바이러스](https://www.acmicpc.net/problem/2606) | [풀이]() |  |     
 | 11  | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | [풀이]() |  |     
-| 12  | [패션왕 신해빈](https://www.acmicpc.net/problem/9375) | [풀이]() |  |     
+| 12  | [패션왕 신해빈](https://www.acmicpc.net/problem/9375) | [풀이](./9375.py) | 해시 |     
 | 13  | [파도반 수열](https://www.acmicpc.net/problem/9461) | [풀이]() |  |     
 | 14  | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [풀이]() |  |     
 | 15  | [2xn 타일링](https://www.acmicpc.net/problem/11726) | [풀이](./11726.py) | Dynamic Programming |     
-| 16  | [2xn 타일링 2](https://www.acmicpc.net/problem/11727) | [풀이]() |  |     
+| 16  | [2xn 타일링 2](https://www.acmicpc.net/problem/11727) | [풀이](./11727.py) |  |     
 | 17  | [Four Squares](https://www.acmicpc.net/problem/17626) | [풀이]() |  |     
 | 18  | [유기농 배추](https://www.acmicpc.net/problem/1012) | [풀이]() |  |     
 | 19  | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [풀이]() |  |     
-| 20  | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [풀이]() |  |     
-| 21  | [최소힙](https://www.acmicpc.net/problem/1927) | [풀이]() |  |     
+| 20  | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [풀이](./1541.py) | 문자열 파싱 |     
+| 21  | [최소힙](https://www.acmicpc.net/problem/1927) | [풀이](./1927.py) | 최소힙(Heap) |     
 | 22  | [색종이 만들기](https://www.acmicpc.net/problem/2630) | [풀이]() |  |     
 | 23  | [나무 자르기](https://www.acmicpc.net/problem/2805) | [풀이]() |  |     
 | 24  | [최대 힙](https://www.acmicpc.net/problem/11279) | [풀이]() |  |     

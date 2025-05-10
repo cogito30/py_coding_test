@@ -8,3 +8,15 @@ while True:
         print("right")
     else:
         print("wrong")
+
+"""
+while True:
+    length = [int(i) for i in input().split()]
+    if sum(length) == 0:
+        break
+    length.sort()
+    if (length[2] ** 2) == ((length[0] ** 2) + (length[1] ** 2)):
+        print("right")
+    else:
+        print("wrong")
+"""
