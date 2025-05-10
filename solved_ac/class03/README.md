@@ -3,7 +3,7 @@
 | 문제번호 |  문제  | 풀이(코드) | 유형 |     
 |  :---:  | :---: |   :---:  |   :---:  |    
 | 1  | [집합](https://www.acmicpc.net/problem/11723) | [풀이]() |  |  
-| 2  | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [풀이]() |  |     
+| 2  | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [풀이](./1620.py) |  |     
 | 3  | [듣보잡](https://www.acmicpc.net/problem/1764) | [풀이](./1764.py) | 집합 연산 |     
 | 4  | [동전 0](https://www.acmicpc.net/problem/11047) | [풀이](./11047.py) | 그리디 |     
 | 5  | [ATM](https://www.acmicpc.net/problem/11399) | [풀이]() |  |     

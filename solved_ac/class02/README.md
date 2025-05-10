@@ -40,5 +40,5 @@
 | 36  | [소수 구하기](https://www.acmicpc.net/problem/1929) | [풀이](./1929.py) | 에라토스테네스의 체, 시간초과 주의 |   
 | 37  | [프린터 큐](https://www.acmicpc.net/problem/1966) | [풀이](./1966.py) |    |
 | 38  | [랜선 자르기](https://www.acmicpc.net/problem/1654) | [풀이](./1654) | 이진탐색 |        
-| 39  | [스택 수열](https://www.acmicpc.net/problem/1874) | [풀이]() |    |
+| 39  | [스택 수열](https://www.acmicpc.net/problem/1874) | [풀이](./1874.py) | 스택 활용, 의미파악 주의 |
 | 40  | [통계학](https://www.acmicpc.net/problem/2108) | [풀이](./2108.py) | 정렬, Counter 사용법 |
