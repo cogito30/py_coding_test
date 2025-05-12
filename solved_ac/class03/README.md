@@ -10,7 +10,7 @@
 | 6  | [비밀번호 찾기](https://www.acmicpc.net/problem/17219) | [풀이](./17219.py) | 해시 |     
 | 7  | [피보나치 함수](https://www.acmicpc.net/problem/1003) | [풀이](./1003.py) | Dynamic Programming |     
 | 8  | [1로 만들기](https://www.acmicpc.net/problem/1463) | [풀이](./1463.py) | Dynamic Programming |     
-| 9  | [계단 오르기](https://www.acmicpc.net/problem/2579) | [풀이]() |  |     
+| 9  | [계단 오르기](https://www.acmicpc.net/problem/2579) | [풀이](./2579.py) | Dynamic Programming |     
 | 10  | [바이러스](https://www.acmicpc.net/problem/2606) | [풀이]() |  |     
 | 11  | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | [풀이]() |  |     
 | 12  | [패션왕 신해빈](https://www.acmicpc.net/problem/9375) | [풀이](./9375.py) | 해시 |     
