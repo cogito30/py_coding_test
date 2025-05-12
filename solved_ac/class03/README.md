@@ -2,14 +2,14 @@
 
 | 문제번호 |  문제  | 풀이(코드) | 유형 |     
 |  :---:  | :---: |   :---:  |   :---:  |    
-| 1  | [집합](https://www.acmicpc.net/problem/11723) | [풀이]() |  |  
-| 2  | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [풀이](./1620.py) |  |     
+| 1  | *[집합](https://www.acmicpc.net/problem/11723) | [풀이](./11723.py) | set, 비트마스킹 |  
+| 2  | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [풀이](./1620.py) | 해시 |     
 | 3  | [듣보잡](https://www.acmicpc.net/problem/1764) | [풀이](./1764.py) | 집합 연산 |     
 | 4  | [동전 0](https://www.acmicpc.net/problem/11047) | [풀이](./11047.py) | 그리디 |     
-| 5  | [ATM](https://www.acmicpc.net/problem/11399) | [풀이]() |  |     
+| 5  | [ATM](https://www.acmicpc.net/problem/11399) | [풀이](./11399.py) | 정렬 |     
 | 6  | [비밀번호 찾기](https://www.acmicpc.net/problem/17219) | [풀이](./17219.py) | 해시 |     
-| 7  | [피보나치 함수](https://www.acmicpc.net/problem/1003) | [풀이]() |  |     
-| 8  | [1로 만들기](https://www.acmicpc.net/problem/1463) | [풀이]() |  |     
+| 7  | [피보나치 함수](https://www.acmicpc.net/problem/1003) | [풀이](./1003.py) | Dynamic Programming |     
+| 8  | [1로 만들기](https://www.acmicpc.net/problem/1463) | [풀이](./1463.py) | Dynamic Programming |     
 | 9  | [계단 오르기](https://www.acmicpc.net/problem/2579) | [풀이]() |  |     
 | 10  | [바이러스](https://www.acmicpc.net/problem/2606) | [풀이]() |  |     
 | 11  | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | [풀이]() |  |     
