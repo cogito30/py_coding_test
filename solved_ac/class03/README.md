@@ -20,17 +20,17 @@
 | 16  | [2xn 타일링 2](https://www.acmicpc.net/problem/11727) | [풀이](./11727.py) | Dynamic Programming |     
 | 17  | *[Four Squares](https://www.acmicpc.net/problem/17626) | [풀이](./17626.py) | Dynamic Programming |     
 | 18  | [유기농 배추](https://www.acmicpc.net/problem/1012) | [풀이](./1012.py) | BFS |     
-| 19  | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [풀이]() |  |     
+| 19  | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [풀이](./1260.py) | DFS와 BFS, 해시 입력 |     
 | 20  | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [풀이](./1541.py) | 문자열 파싱 |     
 | 21  | [최소힙](https://www.acmicpc.net/problem/1927) | [풀이](./1927.py) | 최소힙(Heap) |     
-| 22  | [색종이 만들기](https://www.acmicpc.net/problem/2630) | [풀이]() |  |     
-| 23  | [나무 자르기](https://www.acmicpc.net/problem/2805) | [풀이]() |  |     
-| 24  | [최대 힙](https://www.acmicpc.net/problem/11279) | [풀이]() |  |     
+| 22  | **[색종이 만들기](https://www.acmicpc.net/problem/2630) | [풀이](./2630.py) | 재귀, 분할정복 + 1992번 참고 |     
+| 23  | [나무 자르기](https://www.acmicpc.net/problem/2805) | [풀이](./2805.py) | 이분탐색 |     
+| 24  | [최대 힙](https://www.acmicpc.net/problem/11279) | [풀이](./11279.py) | 최대힙(Heap) |     
 | 25  | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | [풀이]() |  |     
 | 26  | [마인크래프트](https://www.acmicpc.net/problem/18111) | [풀이]() |  |     
-| 27  | [좌표 압축](https://www.acmicpc.net/problem/18870) | [풀이]() |  |     
+| 27  | *[좌표 압축](https://www.acmicpc.net/problem/18870) | [풀이](./18870.py) | hash 활용, 중복주의 |     
 | 28  | [헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736) | [풀이]() |  |     
-| 29  | [과일 탕후루](https://www.acmicpc.net/problem/30804) | [풀이]() |  |     
+| 29  | *[과일 탕후루](https://www.acmicpc.net/problem/30804) | [풀이]() | 투포인터, 슬라이딩 윈도우 |     
 | 30  | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | [풀이]() |  |     
 | 31  | [숨바꼭질](https://www.acmicpc.net/problem/1697) | [풀이]() |  |     
 | 32  | [미로 탐색](https://www.acmicpc.net/problem/2178) | [풀이]() |  |     

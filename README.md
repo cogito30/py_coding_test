@@ -44,3 +44,8 @@ python을 사용하여 algorithm 문제를 풀이
 ```
 git clone https://github.com/cogito30/py_programmers.git
 ```
+
+## How to Study
+1) 문제 읽고 이해하기
+2) 문제 본질 파악하기: 시간복잡도에 따른 자료구조 및 알고리즘
+3) 
